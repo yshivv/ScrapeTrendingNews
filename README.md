@@ -1,0 +1,2 @@
+# ScrapeTrendingNews
+The GoogleNews API can be used to scrape live news updates and the latest trends from around the world based on any topic. It allows you to retrieve information on any keyword which can be the name of any country, any event or even the name of a person who is trending on Google. We can use this API by esasily install it on our systems using the pip command; pip install googlenews.
